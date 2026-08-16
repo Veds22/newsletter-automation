@@ -144,12 +144,3 @@ rate-limit constraints, end to end, for $0/month.
 - De-duplication against previous weeks' coverage
 
 ---
-
-### Resume bullet (example)
-
-> Built and deployed an automated AI/tech news pipeline using LangGraph and
-> LangChain, orchestrating parallel data collection across 5 sources (RSS,
-> Hacker News, arXiv, GitHub, Tavily search), LLM-based deep-scraping via
-> Firecrawl, and free-tier LLM summarization/ranking — scheduled via GitHub
-> Actions for fully autonomous weekly publication at zero infrastructure
-> cost.
