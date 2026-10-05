@@ -1,5 +1,6 @@
 # AI & Tech Weekly — Archive
 
+- [2026-10-05](../newsletters/2026-10-05.md)
 - [2026-09-28](../newsletters/2026-09-28.md)
 - [2026-09-21](../newsletters/2026-09-21.md)
 - [2026-09-14](../newsletters/2026-09-14.md)
